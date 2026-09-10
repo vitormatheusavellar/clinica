@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f4ece4"/>
+      <stop offset="100%" stop-color="#d9b8b0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="980" cy="120" r="180" fill="#d4b896" opacity="0.35"/>
+  <circle cx="160" cy="520" r="220" fill="#c49a92" opacity="0.22"/>
+  <text x="80" y="250" font-family="Georgia, serif" font-size="64" fill="#3a322c">JS Massoterapia</text>
+  <text x="80" y="330" font-family="Georgia, serif" font-size="36" fill="#6b5f57">Massoterapia e estética em Nova Iguaçu</text>
+  <text x="80" y="430" font-family="Arial, sans-serif" font-size="22" fill="#b8946a">SEU MOMENTO DE CUIDADO COMEÇA AQUI</text>
+</svg>
